@@ -1,8 +1,8 @@
 # cmpe275-lab0
-Name: Raaga Pranitha Kolla
-SJSU ID:011824410
-Email: raagapranitha.kolla@sjsu.edu
-
+Name: Raaga Pranitha Kolla    
+SJSU ID:011824410   
+Email: raagapranitha.kolla@sjsu.edu    
+    
 Steps to run the Project:
 *  Extract the project from .zar file and open in an IDE(Eclipse preferable)
 * Build the pom.xml file by right clicking on it and run as Maven Build. 
